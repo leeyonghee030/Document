@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "3d2674775c92ac98",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bc22fba9b2a71ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd0fc48db3a78c0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git_hub/Git & Github.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git & Github"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "87ac7b2f9be12447",
+    "type": "split",
+    "children": [
+      {
+        "id": "f329701872c702bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08a7ca921cb44c4b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "7e897d5e53d844a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "4db5c1cdb9fd6804",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "45f78c1f28ab898b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5aacb5ed3e1cec7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a20de182eabfe2da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "환영합니다!.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "환영합니다! 의 백링크"
+            }
+          },
+          {
+            "id": "284b39caa2215757",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "환영합니다!.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "환영합니다! 의 나가는 링크"
+            }
+          },
+          {
+            "id": "8f22f17a1b00be70",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "7d511a32b22179e6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "771189fd918f9673",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "환영합니다!.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "환영합니다! 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "fd0fc48db3a78c0c",
+  "lastOpenFiles": [
+    "개념.md",
+    "js/js 유튜브종합.md",
+    "js독학/실습/(JS) 1단계 실습 변수와 연산.md",
+    "js독학/js 유튜브/js유튜브3.md",
+    "js독학/js 유튜브/js유튜브2.md",
+    "js독학/js 유튜브/js유튜브1.md",
+    "js독학/코딩 속도 2배 빨라지는 핵심 가이드.md",
+    "js독학/js독학리스트.md",
+    "js독학/2단계/JavaScript DOM 조작 완벽 가이드.md",
+    "js독학/1단계/1단계 기본 문법 (통합본).md",
+    "js독학/1단계/(JS) 기초 학습 메모.md",
+    "java/java 인강.md",
+    "html정리/html 태그.md",
+    "html정리/CSS Grid 레이아웃 .md",
+    "html정리/CSS Flexbox .md",
+    "html정리/인강 css.md",
+    "html정리/인강.md",
+    "git_hub/Git & Github.md",
+    "git_hub/git 강의.md",
+    "java 튜토리얼.md",
+    "핵심 요약 노드 (13일차).md",
+    "핵심 요약 노드 (12일차).md",
+    "핵심 요약 노드 (11일차).md",
+    "핵심 요약 노드 (10일차).md",
+    "핵심 요약 노드 (9일차).md",
+    "핵심 요약 노드 (7~8일차).md",
+    "첫연습",
+    "pigma/예습 노트/2회차",
+    "pigma/예습 노트",
+    "pigma/수업",
+    "pigma/무제",
+    "pigma",
+    "obsidian",
+    "js독학/실습",
+    "js독학/2단계",
+    "js독학/js 유튜브"
+  ]
+}
