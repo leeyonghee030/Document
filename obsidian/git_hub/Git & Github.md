@@ -10,6 +10,8 @@ updated: 2026-01-17
 > 📂 [[DevOps 인덱스]]
 # Git & GitHub 입문 6가이드
 
+[[#git]] [[#Git을 사용하는 이유]]
+
 ## git
 `$ git init` 작업기록 하기 위해 git생성(깃명령어 사용을 위한)
 `$ git status` 작업상태 확인(수정,변경,삭제 내용확인)
