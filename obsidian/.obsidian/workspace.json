@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "00_Inbox/✔규칙.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "✔규칙"
             }
           }
         ]
@@ -183,23 +183,28 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "fd0fc48db3a78c0c",
+  "active": "08a7ca921cb44c4b",
   "lastOpenFiles": [
-    "조작법.md",
-    "개념.md",
+    "00_Inbox/개념.md",
+    "00_Inbox/조작법.md",
+    "03_Archive/README.md",
+    "03_Archive",
+    "00_Inbox/✔규칙.md",
+    "01_Stacks",
+    "00_Inbox",
+    "02_projects",
+    "01_Stacks/git_hub/Git & Github.md",
     "구글연습.md",
-    "js/자바스크립트 완벽 요약 가이드.md",
-    "java/java 인강.md",
-    "html정리/html 태그.md",
-    "html정리/CSS Grid 레이아웃 .md",
-    "html정리/CSS Flexbox .md",
-    "git_hub/Git & Github.md",
+    "01_Stacks/js/자바스크립트 완벽 요약 가이드.md",
+    "01_Stacks/java/java 인강.md",
+    "01_Stacks/html정리/html 태그.md",
+    "01_Stacks/html정리/CSS Grid 레이아웃 .md",
+    "01_Stacks/html정리/CSS Flexbox .md",
     "첫연습/4day.md",
     "첫연습/3-day.md",
     "첫연습/3-2day+transition 요소 메모.md",
     "첫연습/2day.md",
     "첫연습/1일차.md",
-    "✔규칙.md",
     "java 튜토리얼.md",
     "핵심 요약 노드 (14일차).md",
     "핵심 요약 노드 (13일차).md",
@@ -208,18 +213,12 @@
     "핵심 요약 노드 (10일차).md",
     "핵심 요약 노드 (9일차).md",
     "핵심 요약 노드 (7~8일차).md",
-    "js/js 유튜브종합.md",
-    "js독학/실습/(JS) 1단계 실습 변수와 연산.md",
-    "js독학/js 유튜브/js유튜브3.md",
+    "01_Stacks/js/js 유튜브종합.md",
     "첫연습",
     "pigma/예습 노트/2회차",
     "pigma/예습 노트",
     "pigma/수업",
     "pigma/무제",
-    "pigma",
-    "obsidian",
-    "js독학/실습",
-    "js독학/2단계",
-    "js독학/js 유튜브"
+    "pigma"
   ]
 }
