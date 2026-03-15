@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd0fc48db3a78c0c",
+            "id": "0ace070ff10d44d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Inbox/✔규칙.md",
+                "file": "01_Stacks/01_html정리/Html moc 기본정리/00_MOC_HTML.md (메인 인덱스).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "✔규칙"
+              "title": "00_MOC_HTML.md (메인 인덱스)"
+            }
+          },
+          {
+            "id": "cf305bd2fc7d80a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Stacks/01_html정리/Html moc 기본정리/04_Forms 표와 양식.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04_Forms 표와 양식"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,42 +198,43 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "08a7ca921cb44c4b",
+  "active": "cf305bd2fc7d80a2",
   "lastOpenFiles": [
+    "인강 css.md",
+    "01_Stacks/01_html정리/Html moc 기본정리/04_Forms 표와 양식.md",
+    "01_Stacks/01_html정리/Html moc 기본정리/11_Entities 금지된 문자 쓰기 (Entities).md",
+    "01_Stacks/01_html정리/Html moc 기본정리/05_Semantic 시맨틱 태그 (SEO 및 레이아웃).md",
+    "01_Stacks/01_html정리/Html moc 기본정리/03_Media 하이퍼링크 및 멀티미디어.md",
+    "01_Stacks/01_html정리/Html moc 기본정리/02_Text 텍스트 관련 태그.md",
+    "01_Stacks/01_html정리/Html moc 기본정리/01_Structure 문서 기본 구조, Meta 태그, Head 정보.md",
+    "03_Archive/README.md",
+    "인강.md",
+    "01_Stacks/01_html정리/Html moc 기본정리/00_MOC_HTML.md (메인 인덱스).md",
+    "01_Stacks/01_html정리/Html moc 기본정리/09_Graphics 코드로 그리는 그림 (SVG & Canvas).md",
+    "01_Stacks/01_html정리/Html moc 기본정리/12_Validation 내 코드는 건강한가 (W3C & Debug).md",
+    "01_Stacks/01_html정리/Html moc 기본정리/10_Scripting 뇌(JS) 이식하기 (Script & Performance).md",
+    "무제",
+    "01_Stacks/01_html정리/Html moc 기본정리/08_Social_SEO 링크 공유의 마법.md",
+    "01_Stacks/01_html정리/Html moc 기본정리/07_Attributes 이름표와 숨겨진 데이터.md",
+    "01_Stacks/01_html정리/Html moc 기본정리/06_Accessibility 웹 접근성 및 최적화.md",
+    "01_Stacks/01_html정리/html 태그.md",
+    "01_Stacks/01_html정리/Html moc 기본정리",
+    "Label_태그와_접근성_연결.md",
+    "01_Stacks/01_html정리/Meta_태그와_SEO.md",
+    "00_Inbox/✔규칙.md",
     "00_Inbox/개념.md",
     "00_Inbox/조작법.md",
-    "03_Archive/README.md",
     "03_Archive",
-    "00_Inbox/✔규칙.md",
     "01_Stacks",
     "00_Inbox",
     "02_projects",
     "01_Stacks/git_hub/Git & Github.md",
     "구글연습.md",
-    "01_Stacks/js/자바스크립트 완벽 요약 가이드.md",
-    "01_Stacks/java/java 인강.md",
-    "01_Stacks/html정리/html 태그.md",
-    "01_Stacks/html정리/CSS Grid 레이아웃 .md",
-    "01_Stacks/html정리/CSS Flexbox .md",
-    "첫연습/4day.md",
-    "첫연습/3-day.md",
-    "첫연습/3-2day+transition 요소 메모.md",
-    "첫연습/2day.md",
-    "첫연습/1일차.md",
-    "java 튜토리얼.md",
-    "핵심 요약 노드 (14일차).md",
-    "핵심 요약 노드 (13일차).md",
-    "핵심 요약 노드 (12일차).md",
-    "핵심 요약 노드 (11일차).md",
-    "핵심 요약 노드 (10일차).md",
-    "핵심 요약 노드 (9일차).md",
-    "핵심 요약 노드 (7~8일차).md",
-    "01_Stacks/js/js 유튜브종합.md",
+    "01_Stacks/02_js/자바스크립트 완벽 요약 가이드.md",
+    "01_Stacks/03_java/java 인강.md",
     "첫연습",
     "pigma/예습 노트/2회차",
     "pigma/예습 노트",
-    "pigma/수업",
-    "pigma/무제",
-    "pigma"
+    "pigma/수업"
   ]
 }
