@@ -19,11 +19,12 @@ updated: 2026-01-17
 `$ git add` git에 작업파일 기록할거라고 추가(스태이징) ("add ." 은 전체 추가)
 `$ git commit -m"기록내용"` 스태이징된 파일 작업기록 
 `$ git log` 작업내역 확인
-`$ git checkout (commit code) ` 저장된 파일로 되돌리기
+`$ git checkout (commit code) ` 작업하는곳 변경,저장된 파일로 되돌리기
 `$ git restore .` 수정된 거 되돌리기 (가장최신 커밋지점)
 `$ git remote add origin [방금_복사한_깃허브_주소]
 `$ git push -u origin master 프로젝트를 처음 깃허브에 연결할 때 (딱 한 번)
-
+$ git fetch
+인터제이 alt +f12 터미널 열기(여기서 업로드 가능 )
 ## Git을 사용하는 이유
 
 ### 1. 버전 관리
